@@ -38,7 +38,7 @@ The system is divided into three main layers:
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/Maitray-Jariwala/Your-Repo-Name.git](https://github.com/Maitray-Jariwala/Your-Repo-Name.git)
+   git clone [https://github.com/Maitray-Jariwala/CrowCoin.git](https://github.com/Maitray-Jariwala/Your-Repo-Name.git)
 
 2. Install Dependencies:
    ```bash

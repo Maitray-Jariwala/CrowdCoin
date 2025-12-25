@@ -39,3 +39,18 @@ The system is divided into three main layers:
 1. Clone the repo:
    ```bash
    git clone [https://github.com/Maitray-Jariwala/Your-Repo-Name.git](https://github.com/Maitray-Jariwala/Your-Repo-Name.git)
+
+2. Install Dependencies:
+   ```bash
+   npm install
+   
+3. Deploy Smart Contracts:
+   ```bash
+   truffle migrate
+
+4. Run the application:
+   ```bash
+   npm start
+
+📈 Impact
+By integrating decentralized trust, this project aims to empower small-scale farmers who lack access to traditional banking while providing urban investors with a secure way to support sustainable agriculture.
